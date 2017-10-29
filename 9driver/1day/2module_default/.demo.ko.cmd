@@ -1,0 +1,1 @@
+cmd_/home/tl/Git/basic/9driver/1day/2module_default/demo.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-2.6.32-21-generic/scripts/module-common.lds --build-id -o /home/tl/Git/basic/9driver/1day/2module_default/demo.ko /home/tl/Git/basic/9driver/1day/2module_default/demo.o /home/tl/Git/basic/9driver/1day/2module_default/demo.mod.o
