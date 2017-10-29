@@ -1,0 +1,2 @@
+# basic
+embeded basic skill
