@@ -10,7 +10,7 @@
 #include<linux/kernel.h>
 
 MODULE_LICENSE("GPL");
-
+//模块加载
 int __init_module(void)
 {
     printk("%s,%d\n",__func__,__LINE__);
