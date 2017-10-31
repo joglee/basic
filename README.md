@@ -1,2 +1,2 @@
 # basic
-embeded basic skill
+basic is base
